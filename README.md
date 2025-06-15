@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduated in computer science and passionate about technology, I am dedicated to becoming a full stack developer.<br>As much as being a programming monitor was the only experience I had during my career, I have the willpower and passion to face new challenges.
+Graduated in computer science and passionate about technology, I'm currently a full-stack developer.
 
 
 ## 🌐 Socials:
