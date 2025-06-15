@@ -24,9 +24,6 @@ Graduated in computer science and passionate about technology, I'm currently a f
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Dev Meme
-<img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=felipeteofilosiqueiracosta&icon=0&color=0)](https://visitcount.itsvg.in)
 
